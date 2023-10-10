@@ -1,0 +1,28 @@
+.algemeen{
+    background-color: #FFF;
+}
+
+
+.Colomn{
+    grid-template-columns: 0.25fr 3fr;
+    column-gap: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    display:grid;
+}
+
+.Foto1{
+
+    height: 300px
+}
+.List{
+    list-style:circle;
+}
+.Knopjes{
+    grid-template-columns: 0.25fr 0.25fr 0.25fr 0.25fr;
+    column-gap: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    display:grid;
+    border-radius: 50%;
+}
