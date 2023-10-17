@@ -212,4 +212,9 @@ button:hover {
 
 .Big_Tekst
 {
+    color: #333333;
+    font-size: 16px;
+    font-style: italic;
+    border-left: 2px solid #1570b1;
+    padding-left: 10px;
 }
