@@ -218,3 +218,33 @@ button:hover {
     border-left: 2px solid #1570b1;
     padding-left: 10px;
 }
+.skill-bar {
+    margin-bottom: 10px;
+    position: center;
+  }
+ .skill-name {
+    font-weight: bold;
+    position: center;
+  }
+
+  .skill-level {
+    width: 10%;
+    height: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    position: center;
+  }
+
+  .skill-fill {
+    height: 100%;
+    background-color: #46a4bb;
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+    position: center;
+  }
+table .skills{
+    width: 100%;
+    height: 20px;
+    background-color: #6f2e2e;
+}
